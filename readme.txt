@@ -10,3 +10,5 @@ https://blog.csdn.net/m0_37657841
 （4）JavaConcurrent：《实战Java高并发程序设计（第二版）》
 
 （5）NewCoderSolution：牛客网刷题写的一些代码
+
+（6）JavaGuide：https://github.com/Snailclimb/JavaGuide

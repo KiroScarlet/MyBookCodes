@@ -11,4 +11,6 @@ https://blog.csdn.net/m0_37657841
 
 （5）NewCoderSolution：牛客网刷题写的一些代码
 
-（6）JavaGuide：https://github.com/Snailclimb/JavaGuide
+（6）JavaGuide： https://github.com/Snailclimb/JavaGuide
+
+（7）ProficientSpring：《精通spring4.x企业应用开发实战》

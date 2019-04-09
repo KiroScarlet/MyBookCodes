@@ -1,4 +1,4 @@
-package NewCoderSolution;
+package JavaConcurrent.Chapter2;
 
 import javax.print.attribute.standard.MediaSize;
 import javax.print.attribute.standard.OrientationRequested;

@@ -28,8 +28,16 @@ public class Real07 {
 
         int maxLength = 1, length = 1;
         for (int i = 1; i < s.length(); i++) {
-//            if (s.charAt(i)-)
-
+            if ((s.charAt(i) - '0') != (s.charAt(i - 1) - '0')) {
+                length++;
+                if (length > maxLength) {
+                    maxLength = length;
+                }
+            } else {//重新开始计数
+                length = 1;
+            }
         }
+
+        System.out.println(maxLength);
     }
 }

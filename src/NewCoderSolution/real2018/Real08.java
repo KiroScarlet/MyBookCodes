@@ -46,21 +46,18 @@ public class Real08 {
             a[i] = in.nextInt();
         }
 
-        int[] result = new int[n];
-        for (int i = 0; i < n; i++) {
-            result[i] = a[i];
-            for (int j = 0; j < (i+1) / 2; j++) {
-                int tmp = result[j];
-                result[j] = result[i - j];
-                result[i - j] = tmp;
+        for (int i = n - 1; i >= 0; i = i - 2) {
+            System.out.print(a[i] + " ");
+        }
+        if (n % 2 != 0) {
+            for (int i = 1; i < n - 2; i = i + 2) {
+                System.out.print(a[i] + " ");
             }
-            System.out.println(Arrays.toString(result));
+        } else {
+            for (int i = 0; i < n - 2; i = i + 2) {
+                System.out.print(a[i] + " ");
+            }
         }
-
-        for (int i = 0; i < n-1; i++) {
-            System.out.print(result[i]);
-            System.out.print(" ");
-        }
-        System.out.print(result[n-1]);
+        System.out.print(a[n - 2]);
     }
 }

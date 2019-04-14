@@ -14,3 +14,5 @@ https://blog.csdn.net/m0_37657841
 （6）JavaGuide： https://github.com/Snailclimb/JavaGuide
 
 （7）ProficientSpring：《精通spring4.x企业应用开发实战》
+
+（8）CodingInterviewGuide：《程序员代码面试指南：IT名企算法与数据结构题目最优解》

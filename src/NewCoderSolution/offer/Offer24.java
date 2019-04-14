@@ -1,7 +1,4 @@
-package NewCoderSolution.Offer;
-
-import com.sun.org.apache.bcel.internal.generic.RETURN;
-import com.sun.org.apache.regexp.internal.RE;
+package NewCoderSolution.offer;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package NewCoderSolution.Offer;
+package NewCoderSolution.offer;
 
 /**
  * @author KiroScarlet

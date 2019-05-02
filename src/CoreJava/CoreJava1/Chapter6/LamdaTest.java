@@ -19,11 +19,13 @@ public class LamdaTest {
         Arrays.sort(planets, (first, second) -> first.length() - second.length());
         System.out.println(Arrays.toString(planets));
 
-        Timer t = new Timer(1000, event -> System.out.println("time is" + new Date()));
+        Arrays.sort(planets, String::compareToIgnoreCase);
+        System.out.println(Arrays.toString(planets));
+
+/*        Timer t = new Timer(1000, event -> System.out.println("time is" + new Date()));
         t.start();
 
-
         JOptionPane.showMessageDialog(null, "quit programs?");
-        System.exit(0);
+        System.exit(0);*/
     }
 }

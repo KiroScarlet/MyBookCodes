@@ -1,19 +1,21 @@
-package CoreJava.CoreJava1.Chapter9;
+package CoreJava.CoreJava1.Chapter9.treeSet;
 
-import java.util.*;
+import java.util.Comparator;
+import java.util.NavigableSet;
+import java.util.SortedSet;
+import java.util.TreeSet;
 
 /**
  * @author KiroScarlet
- * @date 2019-03-05  -22:26
+ * @date 2019-05-03  -16:19
  */
 public class TreeSetTest {
     public static void main(String[] args) {
         SortedSet<Item> parts = new TreeSet<>();
-        parts.add(new Item("Toaster", 1234));
-        parts.add(new Item("Widget", 4562));
-        parts.add(new Item("Modem", 9912));
+        parts.add(new Item("toaster", 1234));
+        parts.add(new Item("widget", 4562));
+        parts.add(new Item("model", 9912));
         System.out.println(parts);
-
         NavigableSet<Item> sortByDescription = new TreeSet<>(Comparator.comparing(Item::getDescription));
         sortByDescription.addAll(parts);
         System.out.println(sortByDescription);

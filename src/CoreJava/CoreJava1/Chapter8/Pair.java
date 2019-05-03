@@ -2,14 +2,12 @@ package CoreJava.CoreJava1.Chapter8;
 
 /**
  * @author KiroScarlet
- * @date 2019-03-05  -16:17
+ * @date 2019-05-03  -14:09
  */
 public class Pair<T> {
     private T first;
     private T second;
-
-
-    public Pair( ) {
+    public Pair() {
         first = null;
         second = null;
     }
@@ -22,13 +20,12 @@ public class Pair<T> {
     public T getFirst() {
         return first;
     }
+    public T getSecond() {
+        return second;
+    }
 
     public void setFirst(T first) {
         this.first = first;
-    }
-
-    public T getSecond() {
-        return second;
     }
 
     public void setSecond(T second) {

@@ -2,8 +2,10 @@ package CoreJava.CoreJava1.Chapter9;
 
 import CoreJava.CoreJava1.Chapter4.Employee;
 
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Set;
 
 /**
  * @author KiroScarlet
@@ -23,8 +25,22 @@ public class MapTest {
         staff.put("144-25-541", new Employee("Frank"));
 //        System.out.println(staff);
 
-//        staff.forEach((k, v) -> System.out.println(k + " " + v));
+        staff.forEach((k, v) -> System.out.println(k + " " + v));
 
+        Set<String> keys = staff.keySet();
+        for (String key : keys) {
+            System.out.println(key);
+        }
 
+        Collection<Employee> values = staff.values();
+        for (Employee value : values) {
+            System.out.println(value);
+        }
+
+        for (Map.Entry<String, Employee> entry : staff.entrySet()) {
+            System.out.println(entry.getKey()+":"+entry.getValue());
+        }
+        //和上面效果一样
+        staff.forEach((S,E)-> System.out.println(S+":"+E));
     }
 }

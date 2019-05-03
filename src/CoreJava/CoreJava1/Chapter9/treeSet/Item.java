@@ -1,10 +1,10 @@
-package CoreJava.CoreJava1.Chapter9;
+package CoreJava.CoreJava1.Chapter9.treeSet;
 
 import java.util.Objects;
 
 /**
  * @author KiroScarlet
- * @date 2019-03-05  -22:19
+ * @date 2019-05-03  -16:12
  */
 public class Item implements Comparable<Item> {
 
@@ -40,26 +40,24 @@ public class Item implements Comparable<Item> {
                 '}';
     }
 
+    @Override
     public int hashCode() {
         return Objects.hash(description, partNumber);
     }
+
     @Override
-    public int compareTo(Item o) {
-        int diff = Integer.compare(partNumber, o.partNumber);
-        return diff != 0 ? diff : description.compareTo(o.description);
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Item item = (Item) o;
+        return partNumber == item.partNumber &&
+                Objects.equals(description, item.description);
     }
 
-    public boolean equals(Object otherObject) {
-        if (this == otherObject) {
-            return true;
-        }
-        if (otherObject == null) {
-            return false;
-        }
-        if (getClass() != otherObject.getClass()) {
-            return false;
-        }
-        Item other = (Item) otherObject;
-        return Objects.equals(description, other.description) && partNumber == other.partNumber;
+    @Override
+    public int compareTo(Item other) {
+        int diff = Integer.compare(partNumber, other.partNumber);
+        return diff != 0 ? diff : description.compareTo(other.description);
     }
+
 }

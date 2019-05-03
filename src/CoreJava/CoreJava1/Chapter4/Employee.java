@@ -70,10 +70,13 @@ public class Employee implements Comparable<Employee>
       return Objects.hash(name, salary, hireDay); 
    }
 
-   public String toString()
-   {
-      return getClass().getName() + "[name=" + name + ",salary=" + salary + ",hireDay=" + hireDay
-            + "]";
+   @Override
+   public String toString() {
+      return "Employee{" +
+              "name='" + name + '\'' +
+              ", salary=" + salary +
+              ", hireDay=" + hireDay +
+              '}';
    }
 
    @Override

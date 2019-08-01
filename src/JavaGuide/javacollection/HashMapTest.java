@@ -1,4 +1,4 @@
-package JavaGuide;
+package JavaGuide.javacollection;
 
 import java.util.Collection;
 import java.util.HashMap;

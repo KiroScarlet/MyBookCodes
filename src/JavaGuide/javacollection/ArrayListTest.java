@@ -1,6 +1,7 @@
-package JavaGuide;
+package JavaGuide.javacollection;
 
 import java.util.*;
+import java.util.ArrayList;
 
 /**
  * @author KiroScarlet
@@ -10,7 +11,7 @@ import java.util.*;
 public class ArrayListTest {
 
     public static void main(String[] args) {
-        ArrayList<Integer> arrayList = new ArrayList<>();
+        java.util.ArrayList<Integer> arrayList = new ArrayList<>();
         System.out.printf("arrayList.size()=%d\n", arrayList.size());
         arrayList.add(1);
         arrayList.add(3);

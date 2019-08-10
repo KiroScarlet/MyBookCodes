@@ -79,7 +79,6 @@ public class StopThreadUnsafe {
             Thread t = new ChangeObjectThread();
             t.start();
             Thread.sleep(150);
-            t.stop();
         }
     }
 

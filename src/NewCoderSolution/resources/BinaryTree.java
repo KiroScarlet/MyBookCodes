@@ -1,7 +1,8 @@
-package test;
+package NewCoderSolution.resources;
 
 
 import org.junit.Test;
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;

@@ -40,9 +40,10 @@ public class Real2019006 {
             }
         }
 
+
         int maxCount = 0;
-        for (int i = x1Min; i < x2Max; i++) {
-            for (int j = y1Min; j < y2Max; j++) {
+        for (int i : coordinates[0]) {
+            for (int j : coordinates[1]) {
                 int count = 0;
                 //遍历所有的矩形
                 for (int k = 0; k < n; k++) {
@@ -57,6 +58,23 @@ public class Real2019006 {
                 }
             }
         }
+
+//        for (int i = x1Min; i < x2Max; i++) {
+//            for (int j = y1Min; j < y2Max; j++) {
+//                int count = 0;
+//                //遍历所有的矩形
+//                for (int k = 0; k < n; k++) {
+//                    //如果该小方块包含在该矩形中，计数+1
+//                    if (i >= coordinates[0][k] && j >= coordinates[1][k]
+//                            && (i + 1) <= coordinates[2][k] && (j + 1) <= coordinates[3][k]) {
+//                        count++;
+//                    }
+//                }
+//                if (maxCount < count) {
+//                    maxCount = count;
+//                }
+//            }
+//        }
 
 
         System.out.println(maxCount);

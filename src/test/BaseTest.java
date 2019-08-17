@@ -1,5 +1,7 @@
 package test;
 
+import org.junit.Test;
+
 /**
  * @author KiroScarlet
  * @date 2019-05-05  -22:25
@@ -17,5 +19,10 @@ public class BaseTest {
         this(a, b);
         w = d;
         z = c;
+    }
+
+    @Test
+    public void test() {
+
     }
 }

@@ -5,15 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40b78529-647a-40d1-9002-7d2703e4e7ac" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/JavaConcurrent/test/JDBCtransaction.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/JavaConcurrent/test/SimpleWNTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/JavaConcurrent/test/ThreadTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/Real2019007.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/xunfei/XunFei001.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/xunfei/XunFei002.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili001.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili002.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili003.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili003Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/liulishuo/LiuLiShuo001.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/liulishuo/LiuLiShuo002.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun001.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun001Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun002.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun003.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun004.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/JavaConcurrent/test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/BaseTest.java" afterPath="$PROJECT_DIR$/src/test/BaseTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/NewCoderSolution/real2019/xunfei/XunFei002.java" afterPath="$PROJECT_DIR$/src/NewCoderSolution/real2019/xunfei/XunFei002.java" />
+      <change beforePath="$PROJECT_DIR$/src/NewCoderSolution/resources/QuickSort.java" afterPath="$PROJECT_DIR$/src/NewCoderSolution/resources/QuickSort.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,112 +51,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Real2019007.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/Real2019007.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleWNTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/test/SimpleWNTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1113">
-              <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/BaseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JDBCtransaction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaConcurrent/test/JDBCtransaction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="29" column="73" lean-forward="false" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
-              <folding>
-                <marker date="1565876683582" expanded="true" signature="889:943" ph="UPDATE user_info... " />
-                <marker date="1565876683582" expanded="true" signature="1073:1090" ph="UPDATE useriiiiii... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XunFei001.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/xunfei/XunFei001.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="41" column="9" lean-forward="false" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XunFei002.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/xunfei/XunFei002.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/resources/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="966">
-              <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+            <state relative-caret-position="573">
+              <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/resources/BinarySearch.java">
+      <file leaf-file-name="BiliBili002.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili002.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="35" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="1386">
+              <caret line="66" column="13" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConcurrentHashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <file leaf-file-name="BiliBili001.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili001.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27027">
-              <caret line="1369" column="17" lean-forward="false" selection-start-line="1369" selection-start-column="17" selection-end-line="1369" selection-end-column="17" />
+            <state relative-caret-position="336">
+              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="markdownLearn.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/markdownLearn.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="BiliBili003.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili003.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BiliBili003Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili003Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -184,18 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaGuide/javabasis/drg.java" />
-        <option value="$PROJECT_DIR$/src/JavaGuide/javabasis/Singleton1.java" />
-        <option value="$PROJECT_DIR$/src/JavaGuide/javabasis/StringTest.java" />
-        <option value="$PROJECT_DIR$/src/JavaGuide/javabasis/asdfsdf.java" />
-        <option value="$PROJECT_DIR$/src/JavaGuide/javabasis/NormalHashCodeTest.java" />
-        <option value="$PROJECT_DIR$/src/JavaGuide/javabasis/teststest.java" />
-        <option value="$PROJECT_DIR$/src/JavaGuide/javacollection/HashMapTest.java" />
-        <option value="$PROJECT_DIR$/src/JavaGuide/javacollection/ArrayList.java" />
-        <option value="$PROJECT_DIR$/src/JavaGuide/javacollection/ComparableAndComparator.java" />
-        <option value="$PROJECT_DIR$/src/JavaGuide/javacollection/Person.java" />
-        <option value="$PROJECT_DIR$/src/JavaGuide/javacollection/PersonTest.java" />
-        <option value="$PROJECT_DIR$/src/NewCoderSolution/offer/Offer35.java" />
         <option value="$PROJECT_DIR$/src/NewCoderSolution/offer/Offer36.java" />
         <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/huawei/HuaWei190731.java" />
         <option value="$PROJECT_DIR$/src/JavaGuide/javaconcurrent.java" />
@@ -220,7 +168,6 @@
         <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/beike/BeiKe003.java" />
         <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/beike/BeiKe004.java" />
         <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/Real2019006.java" />
-        <option value="$PROJECT_DIR$/src/NewCoderSolution/resources/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/NewCoderSolution/resources/MaxSubSum.java" />
         <option value="$PROJECT_DIR$/src/NewCoderSolution/resources/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/NewCoderSolution/resources/BinarySearch.java" />
@@ -235,6 +182,19 @@
         <option value="$PROJECT_DIR$/src/JavaConcurrent/test/JDBCtransaction.java" />
         <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/xunfei/XunFei001.java" />
         <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/xunfei/XunFei002.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/resources/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun001Test.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun004.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun002.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/Main.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun003.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun001.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/liulishuo/LiuLiShuo002.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/liulishuo/LiuLiShuo001.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili001.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili002.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili003.java" />
+        <option value="$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili003Test.java" />
       </list>
     </option>
   </component>
@@ -259,7 +219,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="952" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
@@ -310,9 +270,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -385,7 +346,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="NewCoderSolution" type="462c0819:PsiDirectoryNode" />
               <item name="real2019" type="462c0819:PsiDirectoryNode" />
-              <item name="xunfei" type="462c0819:PsiDirectoryNode" />
+              <item name="bilibili" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBookCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBookCodes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="NewCoderSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="real2019" type="462c0819:PsiDirectoryNode" />
+              <item name="liulishuo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBookCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBookCodes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="NewCoderSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="real2019" type="462c0819:PsiDirectoryNode" />
+              <item name="tengxun" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyBookCodes" type="b2602c69:ProjectViewProjectNode" />
@@ -404,7 +381,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -425,12 +401,22 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Chapter5" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="NewCoderSolution.offer" />
+      <recent name="NewCoderSolution" />
+      <recent name="HeadFirstJava.Chpater5" />
+      <recent name="HeadFirstJava.Chapter2" />
+      <recent name="Chapter14" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="NewCoderSolution.real2019.bilibili" />
       <recent name="NewCoderSolution.resources" />
       <recent name="NewCoderSolution.real2019.pinduoduo" />
       <recent name="CodingInterviewGuide.chapter01.example01" />
       <recent name="NewCoderSolution.real2019.huawei" />
-      <recent name="NewCoderSolution.real2019" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IdeaProject\MyBookCodes\src\CoreJava\CoreJava2\chapter5\lib" />
@@ -438,16 +424,6 @@
       <recent name="D:\IdeaProject\MyBookCodes\src\CodingInterviewGuide" />
       <recent name="D:\JAVAproject\MyBookCodes\src\JavaConcurrent" />
       <recent name="D:\JAVAproject\CoreJava\src\Chapter4" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="NewCoderSolution.offer" />
-      <recent name="NewCoderSolution" />
-      <recent name="HeadFirstJava.Chpater5" />
-      <recent name="HeadFirstJava.Chapter2" />
-      <recent name="Chapter14" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -462,21 +438,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XunFei001">
+  <component name="RunManager" selected="Application.BiliBili003Test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="JDBCtransaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BiliBili001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="JavaConcurrent.test.*" />
+          <option name="PATTERN" value="NewCoderSolution.real2019.bilibili.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="JavaConcurrent.test.JDBCtransaction" />
+      <option name="MAIN_CLASS_NAME" value="NewCoderSolution.real2019.bilibili.BiliBili001" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -488,14 +464,14 @@
       <module name="MyBookCodes" />
       <envs />
     </configuration>
-    <configuration name="Real2019007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BiliBili002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="NewCoderSolution.real2019.*" />
+          <option name="PATTERN" value="NewCoderSolution.real2019.bilibili.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="NewCoderSolution.real2019.Real2019007" />
+      <option name="MAIN_CLASS_NAME" value="NewCoderSolution.real2019.bilibili.BiliBili002" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -507,14 +483,14 @@
       <module name="MyBookCodes" />
       <envs />
     </configuration>
-    <configuration name="SimpleWNTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BiliBili003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="JavaConcurrent.test.*" />
+          <option name="PATTERN" value="NewCoderSolution.real2019.bilibili.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="JavaConcurrent.test.SimpleWNTest" />
+      <option name="MAIN_CLASS_NAME" value="NewCoderSolution.real2019.bilibili.BiliBili003" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -526,14 +502,14 @@
       <module name="MyBookCodes" />
       <envs />
     </configuration>
-    <configuration name="XunFei001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BiliBili003Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="NewCoderSolution.real2019.xunfei.*" />
+          <option name="PATTERN" value="NewCoderSolution.real2019.bilibili.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="NewCoderSolution.real2019.xunfei.XunFei001" />
+      <option name="MAIN_CLASS_NAME" value="NewCoderSolution.real2019.bilibili.BiliBili003Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -545,14 +521,14 @@
       <module name="MyBookCodes" />
       <envs />
     </configuration>
-    <configuration name="XunFei002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LiuLiShuo001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="NewCoderSolution.real2019.xunfei.*" />
+          <option name="PATTERN" value="NewCoderSolution.real2019.liulishuo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="NewCoderSolution.real2019.xunfei.XunFei002" />
+      <option name="MAIN_CLASS_NAME" value="NewCoderSolution.real2019.liulishuo.LiuLiShuo001" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -651,19 +627,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SimpleWNTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Real2019007" />
-      <item index="2" class="java.lang.String" itemvalue="Application.JDBCtransaction" />
-      <item index="3" class="java.lang.String" itemvalue="Application.XunFei002" />
-      <item index="4" class="java.lang.String" itemvalue="Application.XunFei001" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LiuLiShuo001" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BiliBili002" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BiliBili003" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BiliBili001" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BiliBili003Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.XunFei001" />
-        <item index="1" class="java.lang.String" itemvalue="Application.XunFei002" />
-        <item index="2" class="java.lang.String" itemvalue="Application.JDBCtransaction" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Real2019007" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SimpleWNTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BiliBili003Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BiliBili002" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BiliBili001" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BiliBili003" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LiuLiShuo001" />
       </list>
     </recent_temporary>
   </component>
@@ -741,7 +717,8 @@
       <workItem from="1565792560404" duration="1219000" />
       <workItem from="1565857295423" duration="3558000" />
       <workItem from="1565951264653" duration="3667000" />
-      <workItem from="1566029651612" duration="14000" />
+      <workItem from="1566029651612" duration="13802000" />
+      <workItem from="1566300192182" duration="5114000" />
     </task>
     <servers />
   </component>
@@ -778,7 +755,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="436521000" />
+    <option name="totallyTimeSpent" value="455423000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -790,34 +767,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270142" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3542654" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35362998" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39135256" sideWeight="0.4765808" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2247854" sideWeight="0.4765808" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17328326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43208432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43127963" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18669528" sideWeight="0.5234192" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270142" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -831,7 +808,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="94" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NewCoderSolution/real2019/liulishuo/LiuLiShuo001.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="101" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -840,112 +825,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CodingInterviewGuide/chapter01/example08/MaxTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/Chapter1/MyArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-141">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/Chapter1/SelectTopK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/Chapter1/MyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/Chapter1/MaxSubSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/Chapter1/BinarySearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/BinaryTree.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/DateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/resources/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/resources/MaxSubSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/pinduoduo/PinDuoDuo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/SortedMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="218" column="33" lean-forward="true" selection-start-line="218" selection-start-column="33" selection-end-line="218" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7098">
-          <caret line="393" column="20" lean-forward="false" selection-start-line="393" selection-start-column="20" selection-end-line="393" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/pinduoduo/PinDuoDuo004.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/pinduoduo/PinDuoDuo002.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/pinduoduo/PinDuoDuo001.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -1108,6 +987,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#925#1279#0" expanded="false" />
+            <element signature="e#1278#1279#0" expanded="false" />
+            <element signature="e#1403#1404#0" expanded="false" />
+            <element signature="e#1456#1457#0" expanded="false" />
+            <element signature="e#1536#1537#0" expanded="false" />
+            <element signature="e#1589#1590#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1122,7 +1010,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1130,7 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1113">
           <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1138,7 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27027">
           <caret line="1369" column="17" lean-forward="false" selection-start-line="1369" selection-start-column="17" selection-end-line="1369" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1146,7 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1154,10 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="29" column="73" lean-forward="false" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
-          <folding>
-            <marker date="1565876683582" expanded="true" signature="889:943" ph="UPDATE user_info... " />
-            <marker date="1565876683582" expanded="true" signature="1073:1090" ph="UPDATE useriiiiii... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1172,39 +1052,165 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/resources/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/resources/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="35" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/xunfei/XunFei001.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="41" column="9" lean-forward="false" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/xunfei/XunFei002.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        <state relative-caret-position="252">
+          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Chapter1/BinarySearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/resources/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/resources/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/resources/MaxSubSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun001Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2037">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/max003test.java" />
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/liulishuo/LiuLiShuo002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/liulishuo/LiuLiShuo001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="38" column="27" lean-forward="false" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/TengXun001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/resources/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/tengxun/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="66" column="13" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCoderSolution/real2019/bilibili/BiliBili003Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -45,9 +45,9 @@ public class QuickSort {
         arr[low] = arr[i];
         arr[i] = temp;
         //递归调用左半数组
-        quickSort(arr, low, j-1);
+        quickSort(arr, low, i-1);
         //递归调用右半数组
-        quickSort(arr, j+1, high);
+        quickSort(arr, i+1, high);
     }
 
 

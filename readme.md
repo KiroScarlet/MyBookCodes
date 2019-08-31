@@ -1,3 +1,4 @@
+
 自己在看书学习的过程中写的一些代码，分享一下吧，大部分是一些零散的Demo，详情看我的博客里面
 https://blog.csdn.net/m0_37657841
 
@@ -16,3 +17,5 @@ https://blog.csdn.net/m0_37657841
 （7）ProficientSpring：《精通spring4.x企业应用开发实战》
 
 （8）CodingInterviewGuide：《程序员代码面试指南：IT名企算法与数据结构题目最优解》
+
+（9）HeadFirstDesignPattern:《Head First设计模式》
